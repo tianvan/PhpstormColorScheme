@@ -6,7 +6,7 @@
 
 ----------
 
-**[下载配色方案](https://raw.githubusercontent.com/vanntian/PhpstormColorScheme/master/Monokai%20Mine.icls)**
+**[下载配色方案](https://raw.githubusercontent.com/vanntian/PhpstormColorScheme/master/Monokai%20Perfect.icls)**
 
 ----------
 
